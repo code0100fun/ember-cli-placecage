@@ -1,8 +1,14 @@
-# Ember-cli-placecage
+# ember-cli-placecage
 
-This README outlines the details of collaborating on this Ember addon.
+[![PlaceCage](http://www.placecage.com/gif/400/300)](http://www.placecage.com/)
 
-## Installation
+## Usage
+
+```html
+<place-cage class="avatar" alt={{user.name}} width="80" height="90"/>
+```
+
+## Development
 
 * `git clone` this repository
 * `npm install`
@@ -21,5 +27,3 @@ This README outlines the details of collaborating on this Ember addon.
 ## Building
 
 * `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
